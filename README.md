@@ -22,4 +22,6 @@ The "FracTracker Image Map", published by the ArcGIS account "willemluyten" is p
 
 You can explore the map by visiting the following link:
 
+https://www.arcgis.com/home/item.html?id=7f4af9ee6e5b4b69b8a7d62f92adb0e9
+
 [Access the FracTracker Image Map](https://www.arcgis.com/home/item.html?id=7f4af9ee6e5b4b69b8a7d62f92adb0e9)
