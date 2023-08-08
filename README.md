@@ -5,13 +5,6 @@ Image mapping project for FracTracker Alliance
 
 The FracTracker Image Map project aims to provide an interactive visualization of the media assets stored in the FracTracker Alliance Flickr account. This project involves scraping the FracTracker Alliance Flickr account, transforming the data into an attribute table, cleaning and organizing the information, and then utilizing it to create a dynamic map using ArcGIS Online. The resulting map, named "FracTracker Image Map," offers a interface to explore and visualize images related to oil and gas activities their impacts on surrounding and communities.
 
-## Table of Contents
-
-- [Project Overview](#project-overview)
-- [Data Collection](#data-collection)
-- [Map Creation](#map-creation)
-- [Accessing the Map](#accessing-the-map)
-
 
 ## Data Collection
 
