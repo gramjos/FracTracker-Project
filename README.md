@@ -8,7 +8,7 @@ The FracTracker Image Map project aims to provide an interactive visualization o
 
 ## Data Collection
 
-The project begins with the scraping of the FracTracker Alliance Flickr account to gather metadata and URLs of images related to their activities. The data collected include attributes such as image titles, descriptions, dates, and geolocation information where available.
+The project begins with the scraping of the FracTracker Alliance Flickr account to gather metadata and URLs of images related to their activities. The data collected include attributes such as image titles, their Flickr URL's, descriptions, dates, and geolocation information where available.
 
 The collected data is then transformed into an attribute table, allowing for easy organization and manipulation. This step involves parsing and structuring the scraped data into a format suitable for map creation. During this phase, efforts were made to ensure data integrity and accuracy.
 
