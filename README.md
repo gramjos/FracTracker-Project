@@ -21,3 +21,4 @@ Utilizing the power of ArcGIS Online, the transformed data is employed to create
 The "FracTracker Image Map", published by the ArcGIS account "willemluyten" is publicly accessible on ArcGIS Online. 
 
 You can explore the map by visiting the following link:
+https://wingwsrcn74zrdev.maps.arcgis.com/sharing/oauth2/authorize?client_id=arcgisWebApps&response_type=code&state=%7B%22portalUrl%22%3A%22https%3A%2F%2Fwingwsrcn74zrdev.maps.arcgis.com%22%2C%22uid%22%3A%22rXTSodR-NMTu007SMVu0z_SlUytKwisXAlKJ0oNkM-M%22%7D&expiration=20160&locale=en-US&redirect_uri=https%3A%2F%2Fwingwsrcn74zrdev.maps.arcgis.com%2Fapps%2Fmapviewer%2Findex.html%3Fwebmap%3D7f4af9ee6e5b4b69b8a7d62f92adb0e9&redirectToUserOrgUrl=true&code_challenge=nw_n1La63il9_LWDzlJJXbkdg0ITCyFwloE0-Wppy5U&code_challenge_method=S256
