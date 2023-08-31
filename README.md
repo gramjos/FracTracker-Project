@@ -18,5 +18,5 @@ Utilizing the power of ArcGIS Online, the transformed data is employed to create
 
 ## Accessing the Map
 
-The "FracTracker Image Map", published by the ArcGIS account "willemluyten" is publicly accessible on ArcGIS Online.
+The "FracTracker Image Map", published by the ArcGIS account "willemluyten" is publicly accessible on ArcGIS Online [here](https://wingwsrcn74zrdev.maps.arcgis.com/apps/mapviewer/index.html?webmap=7f4af9ee6e5b4b69b8a7d62f92adb0e9).
 
