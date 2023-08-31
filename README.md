@@ -14,7 +14,7 @@ The collected data is then transformed into an attribute table, allowing for eas
 
 ## Map Creation
 
-Utilizing the power of ArcGIS Online, the transformed data is employed to create an interactive map that displays the images on a geographical interface. The map provides users with the ability to visualize the projects The FracTracker Alliance has been involved with 
+Utilizing the power of ArcGIS Online, the transformed data is employed to create an interactive map that displays the images on a geographical interface. The map provides users with the ability to visualize each of the projects The FracTracker Alliance has been involved with.
 
 ## Accessing the Map
 
